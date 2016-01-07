@@ -1,0 +1,8 @@
+@CHARSET "ISO-8859-1";
+.fl { float:left; }
+.fr { float:right; }
+.formContatoLegend { font-size:14px;font-family:arial;font-weight:bold; }
+.formContatoTable { border:0px;border:0px; }
+.formButtonEnviar { border:0px;margin-left:5px;height:30px;width:80px;letter-spacing:1px;font-family:Arial; }
+.formContatoTr { height:40px;text-align:right; }
+.formContatoInput { width:200px;margin-left:5px;border:0px;padding:5px;background-color:rgba(0,0,0,0.1);color:green;font-size:12px;font-family:Arial; }
